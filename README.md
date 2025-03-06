@@ -1,5 +1,6 @@
 # my-first-repo
 
 
-This is test change on this file 
-Hi hello
+ls -l
+
+pwd 
